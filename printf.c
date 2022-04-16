@@ -21,3 +21,18 @@ int _printf(const char *format, ...)
 		if (format[0] == '%' && format[1] == '\0')
 			return (-1);
 		while (format != NULL && format[i] != '\0')
+		{
+			if (format[i] == '%')
+			{
+				m = get_func(format[i + 1]);
+				p = m(args);
+				i += 2;
+			}
+			_putchar(format[i]);
+			i++;
+		}
+		_putchar('\n');
+		va_end(args);
+	}
+	return (p);
+}
