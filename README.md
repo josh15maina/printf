@@ -2,7 +2,7 @@
 
 The printf project is a collaboration between Joshua Maina and Jeremiah Jeremiah. Students of Software Engineering at ALX. _printf replicates the C standard library printf() function.
 
-What you learn from this project:
+What you should learn from this project:
 * How to use git in a team setting
 * Complexities of printf.
 * Managing large files, and finding a good workflow.
