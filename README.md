@@ -1,6 +1,6 @@
 # C - printf()
 
-The printf project is a collaboration between Joshua Maina and Jeremiah Jeremiah. Students of Software Engineering at ALX. _printf replicates the C standard library printf() function.
+The printf project is a collaboration between Joshua Maina and Jeremiah Jeremiah. Students of Software Engineering at ALX education. _printf replicates the C standard library printf() function.
 
 What you should learn from this project:
 * How to use git in a team setting
