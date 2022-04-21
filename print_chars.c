@@ -1,6 +1,5 @@
 #include "main.h"
 #include <stdlib.h>
-#include "holberton.h"
 
 /**
  * print_c - prints a char
